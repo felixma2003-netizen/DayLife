@@ -76,7 +76,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/daylife.git
+git clone https://github.com/felixma2003-netizen/DayLife.git
 cd daylife
 
 # 安装依赖
