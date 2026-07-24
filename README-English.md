@@ -76,7 +76,7 @@ A beautiful desktop daily & command daily app built with Electron + React + Type
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/daylife.git
+git clone https://github.com/felixma2003-netizen/DayLife.git
 cd daylife
 
 # Install dependencies
@@ -153,14 +153,6 @@ daylife/
 ├── tsconfig.json
 └── vite.config.ts
 ```
-
-## Screenshots
-
-> Add your screenshots here after uploading to GitHub:
->
-> `![Editor](screenshots/editor.png)`
-> `![Terminal](screenshots/terminal.png)`
-> `![Calendar](screenshots/calendar.png)`
 
 ## Keyboard Shortcuts
 
