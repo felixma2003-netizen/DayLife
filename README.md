@@ -159,6 +159,7 @@ daylife/
 > <img width="1777" height="967" alt="image" src="https://github.com/user-attachments/assets/21c22fd0-2230-4221-b970-90c6a633a24b" />
 > <img width="1779" height="979" alt="image" src="https://github.com/user-attachments/assets/2dfb0c94-daba-4bff-9462-fdaaf0794d27" />
 
+
 ## 快捷键
 
 | 快捷键   | 功能             |
