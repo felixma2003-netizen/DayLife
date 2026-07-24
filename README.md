@@ -156,7 +156,8 @@ daylife/
 
 ## 截图
 
-> 上传到 GitHub 后在此添加截图：
+> <img width="1777" height="967" alt="image" src="https://github.com/user-attachments/assets/21c22fd0-2230-4221-b970-90c6a633a24b" />
+
 >
 > `![Uploading image.png…]()
 `
