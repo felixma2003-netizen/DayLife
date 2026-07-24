@@ -158,7 +158,8 @@ daylife/
 
 > 上传到 GitHub 后在此添加截图：
 >
-> `![编辑器](screenshots/editor.png)`
+> `![Uploading image.png…]()
+`
 > `![终端](screenshots/terminal.png)`
 > `![日历](screenshots/calendar.png)`
 
