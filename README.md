@@ -184,6 +184,12 @@ daylife/
 
 所有数据保存在浏览器的 `localStorage` 中。除非你配置并使用了 AI 功能，否则不会有任何数据发送到服务器。可以使用 **备份与恢复** 功能将数据导出为 JSON 文件或从文件恢复。
 
+## 软件下载
+
+| 版本   | 百度网盘链接        | 提取码 |
+| -------- | ---------------- | -----------------|
+| DayLife | https://pan.baidu.com/s/1t3qFVdVtCTMir5Dtt9lPKA | d925 |
+
 ## Acknowledgments
 
 - [React](https://react.dev/)
