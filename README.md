@@ -1,6 +1,7 @@
 # DayLife
 
 一款精致的桌面日志与命令记录工具，基于 Electron + React + TypeScript 构建。
+建议直接Release下载安装包，其它部分更新不及时
 
 > 记录每一天 — 用 Markdown 写日志、追踪心情、管理日程，还能在 WindTerm 风格的终端中记录命令。
 
@@ -186,7 +187,7 @@ daylife/
 
 | 版本   | 百度网盘链接        | 提取码 |
 | -------- | ---------------- | -----------------|
-| DayLife | https://pan.baidu.com/s/1t3qFVdVtCTMir5Dtt9lPKA | d925 |
+| DayLife | https://pan.baidu.com/s/134b24spj1vwf_s6YZRAc_w?pwd=n6d3 | n6d3 |
 
 ## Acknowledgments
 
